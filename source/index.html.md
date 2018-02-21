@@ -422,7 +422,7 @@ curl -X POST --data '{"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id
 
 
 
-### eth_chainId
+## eth_chainId
 
 Returns the currently configured chain id, a value used in replay-protected transaction
 signing as introduced by EIP-155.
